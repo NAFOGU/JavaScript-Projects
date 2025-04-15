@@ -31,6 +31,11 @@ var Y = 5.5;
 Y--;
 document.write(Y);
 
+// The code below generates a random number
 window.alert(Math.random());
 
+// The code below generates a random number between 0 and 100
 window.alert(Math.random() * 100);
+
+
+
